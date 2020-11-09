@@ -1,0 +1,9 @@
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\bin\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.deps.json
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\bin\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.dll
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\bin\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.pdb
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.csprojAssemblyReference.cache
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.AssemblyInfo.cs
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.dll
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.pdb
+D:\CODE\vs\repos\GCloud\Utility\Sms\GCloud.Utility.Sms.Contract\obj\Release\netcoreapp2.1\GCloud.Utility.Sms.Contract.csproj.CoreCompileInputs.cache

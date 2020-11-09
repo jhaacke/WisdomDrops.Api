@@ -1,0 +1,22 @@
+﻿<Window x:Class="GCloud.ResourceAccess.Excel.TestClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GCloud.ResourceAccess.Excel.TestClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="925">
+	<TabControl TabStripPlacement="Top">
+		<TabItem Header="Excel Adapter">
+			<TabControl TabStripPlacement="Left">
+				<TabItem Header="Get All">
+					<local:GetAllTab></local:GetAllTab>
+				</TabItem>
+			</TabControl>
+		</TabItem>
+		<TabItem Header="EventAccess">
+		</TabItem>
+
+	</TabControl>
+
+</Window>

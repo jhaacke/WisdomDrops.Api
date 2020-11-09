@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.1</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+    <ProjectReference Include="..\..\GCloud.Core.Contract\GCloud.Core.Contract.csproj" />
+    <ProjectReference Include="..\..\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\GCloud.ResourceAccess.Domain.Contract.csproj" />
+    <ProjectReference Include="..\..\ResourceAccess\Excel\GCloud.ResourceAccess.Excel.Contract\GCloud.ResourceAccess.Excel.Contract.csproj" />
+    <ProjectReference Include="..\..\Utility\Sms\GCloud.Utility.Sms.Contract\GCloud.Utility.Sms.Contract.csproj" />
+  </ItemGroup>
+
+</Project>

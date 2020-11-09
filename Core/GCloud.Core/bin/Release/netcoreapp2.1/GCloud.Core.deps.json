@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GCloud.Core/1.0.0": {
+        "dependencies": {
+          "GCloud.Core.Contract": "1.0.0",
+          "GCloud.ResourceAccess.Domain.Contract": "1.0.0",
+          "GCloud.ResourceAccess.Excel.Contract": "1.0.0",
+          "GCloud.Utility.Sms.Contract": "1.0.0"
+        },
+        "runtime": {
+          "GCloud.Core.dll": {}
+        }
+      },
+      "GCloud.Core.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.Core.Contract.dll": {}
+        }
+      },
+      "GCloud.ResourceAccess.Domain.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.ResourceAccess.Domain.Contract.dll": {}
+        }
+      },
+      "GCloud.ResourceAccess.Excel.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.ResourceAccess.Excel.Contract.dll": {}
+        }
+      },
+      "GCloud.Utility.Sms.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.Utility.Sms.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCloud.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GCloud.Core.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GCloud.ResourceAccess.Domain.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GCloud.ResourceAccess.Excel.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GCloud.Utility.Sms.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

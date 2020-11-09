@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jISd9VKpWYwkeTwsb/ImRXXvYAbEqrg8afjgYVlCLaoBIUbpDgnR9+Lt5aw4OFsMtpfIiUTPYGQNsCz2wbL+4w==",
+  "success": true,
+  "projectFilePath": "D:\\CODE\\vs\\repos\\WisdomDrops.Api\\ResourceAccess\\Excel\\GCloud.ResourceAccess.Excel.Contract\\GCloud.ResourceAccess.Excel.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeffh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jeffh\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

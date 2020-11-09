@@ -1,0 +1,12 @@
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.csprojAssemblyReference.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.AssemblyInfo.cs
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.deps.json
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.pdb
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.Contract.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.Contract.pdb
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.csproj.CopyComplete
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Excel.pdb

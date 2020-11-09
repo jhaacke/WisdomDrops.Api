@@ -1,0 +1,13 @@
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\bin\Release\Cube.TestClient.Core.dll
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\bin\Release\Cube.TestClient.Core.pdb
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.csprojAssemblyReference.cache
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core_MarkupCompile.cache
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core_MarkupCompile.lref
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Resources\styles.baml
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.g.resources
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.Properties.Resources.resources
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.csproj.GenerateResource.cache
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.dll
+D:\CODE\vs\repos\GCloud\Libs\Cube.TestClient.Core\obj\Release\Cube.TestClient.Core.pdb

@@ -1,0 +1,5 @@
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Exel.deps.json
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Exel.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Exel.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Exel.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Excel\GCloud.ResourceAccess.Exel\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Exel.AssemblyInfo.cs

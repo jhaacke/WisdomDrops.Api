@@ -1,0 +1,17 @@
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.deps.json
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.pdb
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.AssemblyInfo.cs
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.dll
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.pdb
+D:\CODE\vs\repos\GCloud\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.deps.json
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.dll
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\bin\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.pdb
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.csprojAssemblyReference.cache
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.AssemblyInfo.cs
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.dll
+D:\CODE\vs\repos\WisdomDrops.Api\ResourceAccess\Domain\GCloud.ResourceAccess.Domain.Contract\obj\Debug\netcoreapp2.1\GCloud.ResourceAccess.Domain.Contract.pdb

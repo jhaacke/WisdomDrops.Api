@@ -1,0 +1,9 @@
+D:\CODE\vs\repos\GCloud\GCloud.Core\bin\Debug\netstandard2.0\GCloud.Core.deps.json
+D:\CODE\vs\repos\GCloud\GCloud.Core\bin\Debug\netstandard2.0\GCloud.Core.dll
+D:\CODE\vs\repos\GCloud\GCloud.Core\bin\Debug\netstandard2.0\GCloud.Core.pdb
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.csprojAssemblyReference.cache
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.AssemblyInfoInputs.cache
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.AssemblyInfo.cs
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.dll
+D:\CODE\vs\repos\GCloud\GCloud.Core\obj\Debug\netstandard2.0\GCloud.Core.pdb

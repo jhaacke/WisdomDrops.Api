@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GCloud.Utility.Sms.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.Utility.Sms.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCloud.Utility.Sms.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

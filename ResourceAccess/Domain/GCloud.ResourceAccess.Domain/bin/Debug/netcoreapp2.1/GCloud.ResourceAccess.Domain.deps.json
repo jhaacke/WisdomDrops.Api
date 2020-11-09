@@ -1,0 +1,368 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "GCloud.ResourceAccess.Domain/1.0.0": {
+        "dependencies": {
+          "GCloud.ResourceAccess.Domain.Contract": "1.0.0",
+          "Google.Cloud.Firestore": "1.0.0"
+        },
+        "runtime": {
+          "GCloud.ResourceAccess.Domain.dll": {}
+        }
+      },
+      "Google.Api.CommonProtos/1.7.0": {
+        "dependencies": {
+          "Google.Protobuf": "3.8.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.CommonProtos.dll": {
+            "assemblyVersion": "1.7.0.0",
+            "fileVersion": "1.7.0.0"
+          }
+        }
+      },
+      "Google.Api.Gax/2.9.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2",
+          "System.Interactive.Async": "3.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.Gax.dll": {
+            "assemblyVersion": "2.9.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "Google.Api.Gax.Grpc/2.9.0": {
+        "dependencies": {
+          "Google.Api.CommonProtos": "1.7.0",
+          "Google.Api.Gax": "2.9.0",
+          "Google.Apis.Auth": "1.40.2",
+          "Grpc.Auth": "1.22.0",
+          "Grpc.Core": "1.22.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Api.Gax.Grpc.dll": {
+            "assemblyVersion": "2.9.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "Google.Apis/1.40.2": {
+        "dependencies": {
+          "Google.Apis.Core": "1.40.2",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.dll": {
+            "assemblyVersion": "1.40.2.0",
+            "fileVersion": "1.40.2.0"
+          }
+        }
+      },
+      "Google.Apis.Auth/1.40.2": {
+        "dependencies": {
+          "Google.Apis": "1.40.2",
+          "Google.Apis.Core": "1.40.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll": {
+            "assemblyVersion": "1.40.2.0",
+            "fileVersion": "1.40.2.0"
+          },
+          "lib/netstandard2.0/Google.Apis.Auth.dll": {
+            "assemblyVersion": "1.40.2.0",
+            "fileVersion": "1.40.2.0"
+          }
+        }
+      },
+      "Google.Apis.Core/1.40.2": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Apis.Core.dll": {
+            "assemblyVersion": "1.40.2.0",
+            "fileVersion": "1.40.2.0"
+          }
+        }
+      },
+      "Google.Cloud.Firestore/1.0.0": {
+        "dependencies": {
+          "Google.Cloud.Firestore.V1": "1.0.0",
+          "Grpc.Core": "1.22.0",
+          "System.Collections.Immutable": "1.4.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Cloud.Firestore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Google.Cloud.Firestore.V1/1.0.0": {
+        "dependencies": {
+          "Google.Api.Gax.Grpc": "2.9.0",
+          "Google.LongRunning": "1.1.0",
+          "Grpc.Core": "1.22.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Cloud.Firestore.V1.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Google.LongRunning/1.1.0": {
+        "dependencies": {
+          "Google.Api.Gax.Grpc": "2.9.0",
+          "Grpc.Core": "1.22.0"
+        },
+        "runtime": {
+          "lib/netstandard1.5/Google.LongRunning.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
+      "Google.Protobuf/3.8.0": {
+        "dependencies": {
+          "System.Memory": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Google.Protobuf.dll": {
+            "assemblyVersion": "3.8.0.0",
+            "fileVersion": "3.8.0.0"
+          }
+        }
+      },
+      "Grpc.Auth/1.22.0": {
+        "dependencies": {
+          "Google.Apis.Auth": "1.40.2",
+          "Grpc.Core": "1.22.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Auth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.22.0.0"
+          }
+        }
+      },
+      "Grpc.Core/1.22.0": {
+        "dependencies": {
+          "Grpc.Core.Api": "1.22.0",
+          "System.Interactive.Async": "3.2.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.22.0.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/libgrpc_csharp_ext.x64.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/linux/native/libgrpc_csharp_ext.x86.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x64.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx/native/libgrpc_csharp_ext.x86.dylib": {
+            "rid": "osx",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x64.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/native/grpc_csharp_ext.x86.dll": {
+            "rid": "win",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "Grpc.Core.Api/1.22.0": {
+        "dependencies": {
+          "System.Interactive.Async": "3.2.0",
+          "System.Memory": "4.5.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Grpc.Core.Api.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.22.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
+      "System.Collections.Immutable/1.4.0": {},
+      "System.Interactive.Async/3.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/System.Interactive.Async.dll": {
+            "assemblyVersion": "3.2.0.0",
+            "fileVersion": "3.2.0.702"
+          }
+        }
+      },
+      "System.Memory/4.5.2": {},
+      "GCloud.ResourceAccess.Domain.Contract/1.0.0": {
+        "runtime": {
+          "GCloud.ResourceAccess.Domain.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GCloud.ResourceAccess.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Google.Api.CommonProtos/1.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RQG8nYUb+B1CKxXqtXBy7Kfj4r0c3mE4itQaFHuLzf7BXPeAOHPRKgU02kemBmuNMeJ+GSK+6D/RrFkjSFxvOA==",
+      "path": "google.api.commonprotos/1.7.0",
+      "hashPath": "google.api.commonprotos.1.7.0.nupkg.sha512"
+    },
+    "Google.Api.Gax/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uWVVVB+ZRqlfTBPbFaL1If8JAS6b6ysX3YXToSxRXrw6BeKp3bP6svgwFS1oV69a6sZeZxcGYRzO8S2QPYn4ZA==",
+      "path": "google.api.gax/2.9.0",
+      "hashPath": "google.api.gax.2.9.0.nupkg.sha512"
+    },
+    "Google.Api.Gax.Grpc/2.9.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IGjBm4NOQVz7+S4+nJrJlzA/suEs/MDeq/m0M7qLEVc4pK3aTfe+XsKKSX3KqCF72vHONA7chKoETrVbZxqhcg==",
+      "path": "google.api.gax.grpc/2.9.0",
+      "hashPath": "google.api.gax.grpc.2.9.0.nupkg.sha512"
+    },
+    "Google.Apis/1.40.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cA0x/6oV3K2zpcK3OdqkCUB80QkuVUe9naAdlVcshelPSL9tJzKdBR11LMz4hAOpTc2vtqMm9rkQa4jgOfHRWw==",
+      "path": "google.apis/1.40.2",
+      "hashPath": "google.apis.1.40.2.nupkg.sha512"
+    },
+    "Google.Apis.Auth/1.40.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0YHiCwWF5DkKf7kpe89AjAB9FoJTu1qpPdkw3eUwfFc8ohuGQbxSVgyiieAtWhSvJ01iKH7zepdNR1PyrFPRvQ==",
+      "path": "google.apis.auth/1.40.2",
+      "hashPath": "google.apis.auth.1.40.2.nupkg.sha512"
+    },
+    "Google.Apis.Core/1.40.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-eOI5/BdxfRgrI+3ZGVrogatR7VvHyKvcPCRNDi1KS/ptm0CTf4+zY8I/ryrMCIrKMoW9aQamMoNjbKFruRIv8A==",
+      "path": "google.apis.core/1.40.2",
+      "hashPath": "google.apis.core.1.40.2.nupkg.sha512"
+    },
+    "Google.Cloud.Firestore/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JqJF1orfWH1FHtV+upOFKhRHsewk1j++pJoHZge5yMwVMMIODKoYKn7IjcHmRKFDzoUy0hQR7RW1YFTXQioCog==",
+      "path": "google.cloud.firestore/1.0.0",
+      "hashPath": "google.cloud.firestore.1.0.0.nupkg.sha512"
+    },
+    "Google.Cloud.Firestore.V1/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HIh2hF+DOfRSaU/lT+HnJegv44Qyl8oIJMDnDUB0foJCIX98rZ21oWzlSu28odU3Gtg3XqCwGiqHhDQuTtcykw==",
+      "path": "google.cloud.firestore.v1/1.0.0",
+      "hashPath": "google.cloud.firestore.v1.1.0.0.nupkg.sha512"
+    },
+    "Google.LongRunning/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w7q69il2enDzi0XAn9qNZ/ocD5BDMOrvYPKs8x3cXkiFsR5QalwrQ/Y2Gh/FKbZFT1RtWaeszaU4KNBhWHTJHA==",
+      "path": "google.longrunning/1.1.0",
+      "hashPath": "google.longrunning.1.1.0.nupkg.sha512"
+    },
+    "Google.Protobuf/3.8.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BFgHpY9TySZWcC5FWfNio54kBx75VlgLY1uGVyYmn80xUew794FP8YHLrEuf+lEQSYT1IVyigvsAOZv+ZQkf+g==",
+      "path": "google.protobuf/3.8.0",
+      "hashPath": "google.protobuf.3.8.0.nupkg.sha512"
+    },
+    "Grpc.Auth/1.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-88m1CFUV7OAFhwHXzLiwFbDEj3d72+OK6wbMlzgKcg5CA+nVoRQxtcZacqlbhVcnFoV8gm9WhizxxcNl1FnY8Q==",
+      "path": "grpc.auth/1.22.0",
+      "hashPath": "grpc.auth.1.22.0.nupkg.sha512"
+    },
+    "Grpc.Core/1.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ssYmWK233NkW/XPL9CRCQuZq7mqnkFBd2HQq3rvAWnR8HELWip36eRhPcvIwJBdlgjMDJ/9lCrCM7lmd3FkMTQ==",
+      "path": "grpc.core/1.22.0",
+      "hashPath": "grpc.core.1.22.0.nupkg.sha512"
+    },
+    "Grpc.Core.Api/1.22.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ycWWzeVgVvHfukxORx8kk/SrztyoOTZuweEW5HhJPzNn/7JlqmfCGaaQpa24qMwQv4gB4GMVsZ1W8OkSVO9sgw==",
+      "path": "grpc.core.api/1.22.0",
+      "hashPath": "grpc.core.api.1.22.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    },
+    "System.Collections.Immutable/1.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
+      "path": "system.collections.immutable/1.4.0",
+      "hashPath": "system.collections.immutable.1.4.0.nupkg.sha512"
+    },
+    "System.Interactive.Async/3.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-C07p0dAA5lGqYUPiPCK3paR709gqS4aMDDsje0v0pvffwzLaxmsn5YQTfZbyNG5qrudPx+BCxTqISnncQ3wIoQ==",
+      "path": "system.interactive.async/3.2.0",
+      "hashPath": "system.interactive.async.3.2.0.nupkg.sha512"
+    },
+    "System.Memory/4.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fvq1GNmUFwbKv+aLVYYdgu/+gc8Nu9oFujOxIjPrsf+meis9JBzTPDL6aP/eeGOz9yPj6rRLUbOjKMpsMEWpNg==",
+      "path": "system.memory/4.5.2",
+      "hashPath": "system.memory.4.5.2.nupkg.sha512"
+    },
+    "GCloud.ResourceAccess.Domain.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

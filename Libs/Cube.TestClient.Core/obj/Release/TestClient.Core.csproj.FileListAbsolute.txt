@@ -1,0 +1,26 @@
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\bin\Release\TestClient.Core.dll
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\bin\Release\TestClient.Core.pdb
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core_MarkupCompile.cache
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core_MarkupCompile.lref
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\Resources\styles.baml
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.g.resources
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.Properties.Resources.resources
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.csproj.GenerateResource.cache
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.dll
+C:\Users\Jeff\documents\visual studio 2017\Projects\Vibin\TestClient.Core\obj\Release\TestClient.Core.pdb
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\bin\Release\TestClient.Core.dll
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\bin\Release\TestClient.Core.pdb
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.csprojAssemblyReference.cache
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\GeneratedInternalTypeHelper.g.cs
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core_MarkupCompile.cache
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core_MarkupCompile.lref
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\Resources\styles.baml
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.g.resources
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.Properties.Resources.resources
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.csproj.GenerateResource.cache
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.csproj.CoreCompileInputs.cache
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.dll
+D:\CODE\vs\repos\Vibin\Enterprise\TestClient.Core\obj\Release\TestClient.Core.pdb
